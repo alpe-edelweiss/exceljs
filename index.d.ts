@@ -9,6 +9,7 @@ export declare enum RelationshipType {
 	Styles = 5,
 	Theme = 6,
 	Hyperlink = 7
+	Token = 8
 }
 
 export declare enum DocumentType {
